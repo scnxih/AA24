@@ -1,3 +1,7 @@
 base
+<<<<<<< HEAD
 local change
 local2奥斯卡大奖
+=======
+github1
+>>>>>>> 36b5c2e2857a203e0626962976fdf16174e6c90b
