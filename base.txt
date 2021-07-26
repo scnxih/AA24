@@ -1,3 +1,7 @@
 base
+<<<<<<< HEAD
 github
 github2
+=======
+github1
+>>>>>>> aaaa
